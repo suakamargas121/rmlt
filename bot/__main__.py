@@ -17,8 +17,8 @@ print("Successfully deployed!!")
 
 async def start(client, message):
     buttons = ButtonMaker()
-    buttons.url_buildbutton("Repo", "https://github.com/Sam-Max/rclone-mirror-leech-telegram-bot")
-    buttons.url_buildbutton("Owner", "https://github.com/Sam-Max")
+    buttons.url_buildbutton("Repo", "https://github.com")
+    buttons.url_buildbutton("Owner", "https://github.com")
     reply_markup = buttons.build_menu(2)
     if CustomFilters.user_filter or CustomFilters.chat_filter:
         msg = '''
