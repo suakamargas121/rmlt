@@ -74,4 +74,4 @@ class TelegraphHelper:
         return
 
 
-telegraph=TelegraphHelper('Rclone-Mirror-Leech-Telegram-Bot', 'https://github.com/Sam-Max/rclone-mirror-leech-telegram-bot')
+telegraph=TelegraphHelper('Rclone-Mirror-Leech-Telegram-Bot', 'https://github.com')
