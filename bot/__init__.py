@@ -1,5 +1,5 @@
 __version__ = "4.0"
-__author__ = "Sam-Max"
+__author__ = "rk"
 
 from asyncio import Lock
 from asyncio import Queue
