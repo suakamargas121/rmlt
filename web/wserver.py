@@ -232,7 +232,7 @@ function s_validate() {
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/Sam-Max/rclone-mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
+        <a href="https://github.com"><i class="fab fa-github"></i></a>
       </div>
     </header>
     <div id="sticks">
